@@ -1,0 +1,14 @@
+{
+    "testCases": [
+        {
+        "id": 1,
+        "input": "Hello, World!",
+        "expectedOutput": "Hello, World!"
+        },
+        {
+        "id": 2,
+        "input": "Test Case 2",
+        "expectedOutput": "Test Case 2"
+        }
+    ]
+}

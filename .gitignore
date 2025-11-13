@@ -1,0 +1,44 @@
+# Node dependencies
+node_modules/
+_submissions/
+_grading/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Caches
+.eslintcache
+.cache/
+
+# Environment files (keep an example)
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Logs & PIDs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+pids/
+*.pid
+*.pid.lock
+
+# Editor (VS Code)
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
