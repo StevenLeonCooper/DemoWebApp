@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "691737e1842da88332658506"
+  },
+  "title": "Kindred",
+  "authorNames": [
+    "Octavia E. Butler"
+  ],
+  "publishYear": 1979,
+  "isbn": "978-0807083697",
+  "genre": "Science Fiction",
+  "pages": 287,
+  "authorNamesLower": [
+    "octavia e. butler"
+  ]
+},
+{
+  "_id": {
+    "$oid": "691737e1842da88332658507"
+  },
+  "title": "Parable of the Sower",
+  "authorNames": [
+    "Octavia E. Butler"
+  ],
+  "publishYear": 1993,
+  "isbn": "978-1538732182",
+  "genre": "Science Fiction",
+  "pages": 345,
+  "authorNamesLower": [
+    "octavia e. butler"
+  ]
+},
+{
+  "_id": {
+    "$oid": "691737e1842da88332658508"
+  },
+  "title": "Dawn",
+  "authorNames": [
+    "Octavia Butler"
+  ],
+  "publishYear": 1987,
+  "isbn": "978-0446603775",
+  "genre": "Science Fiction",
+  "pages": 264,
+  "authorNamesLower": [
+    "octavia butler"
+  ]
+},
+{
+  "_id": {
+    "$oid": "691737e1842da88332658509"
+  },
+  "title": "American Gods",
+  "authorNames": [
+    "Neil Gaiman"
+  ],
+  "publishYear": 2001,
+  "isbn": "978-0380789030",
+  "genre": "Fantasy",
+  "pages": 465,
+  "authorNamesLower": [
+    "neil gaiman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "691737e1842da8833265850a"
+  },
+  "title": "Good Omens",
+  "authorNames": [
+    "Neil Gaiman",
+    "Terry Pratchett"
+  ],
+  "publishYear": 1990,
+  "isbn": "978-0060853983",
+  "genre": "Fantasy",
+  "pages": 288,
+  "authorNamesLower": [
+    "neil gaiman",
+    "terry pratchett"
+  ]
+},
+{
+  "_id": {
+    "$oid": "691737e1842da8833265850b"
+  },
+  "title": "The Color of Magic",
+  "authorNames": [
+    "Terry Pratchett"
+  ],
+  "publishYear": 1983,
+  "isbn": "978-0060855925",
+  "genre": "Fantasy",
+  "pages": 206,
+  "authorNamesLower": [
+    "terry pratchett"
+  ]
+},
+{
+  "_id": {
+    "$oid": "691737e1842da8833265850c"
+  },
+  "title": "A Wizard of Earthsea",
+  "authorNames": [
+    "Ursula K. Le Guin"
+  ],
+  "publishYear": 1968,
+  "isbn": "978-0547722023",
+  "genre": "Fantasy",
+  "pages": 183,
+  "authorNamesLower": [
+    "ursula k. le guin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "691737e1842da8833265850d"
+  },
+  "title": "The Left Hand of Darkness",
+  "authorNames": [
+    "Ursula K. Le Guin"
+  ],
+  "publishYear": 1969,
+  "isbn": "978-0441478125",
+  "genre": "Science Fiction",
+  "pages": 304,
+  "authorNamesLower": [
+    "ursula k. le guin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "691737e1842da8833265850e"
+  },
+  "title": "Test Cases in Fiction",
+  "authorNames": [
+    "Bob McTesterson"
+  ],
+  "publishYear": 2024,
+  "isbn": "555-1234567890",
+  "genre": "Fiction",
+  "pages": 150,
+  "authorNamesLower": [
+    "bob mctesterson"
+  ]
+},
+{
+  "_id": {
+    "$oid": "691737e1842da8833265850f"
+  },
+  "title": "Examples for Everyone",
+  "authorNames": [
+    "Bobby Le Tester"
+  ],
+  "publishYear": 2021,
+  "isbn": "555-0987654321",
+  "genre": "Non-Fiction",
+  "pages": 200,
+  "authorNamesLower": [
+    "bobby le tester"
+  ]
+}]

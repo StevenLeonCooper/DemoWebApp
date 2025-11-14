@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "691737d0842da883326584ff"
+  },
+  "currentName": "Octavia E. Butler",
+  "aliases": [
+    "Octavia Estelle Butler"
+  ],
+  "birthYear": 1947,
+  "deathYear": 2006,
+  "nationality": "American",
+  "bio": "Groundbreaking science fiction author known for the Parable and Xenogenesis series",
+  "currentNameLower": "octavia e. butler",
+  "aliasesLower": [
+    "octavia estelle butler"
+  ]
+},
+{
+  "_id": {
+    "$oid": "691737d0842da88332658500"
+  },
+  "currentName": "Neil Gaiman",
+  "aliases": [],
+  "birthYear": 1960,
+  "nationality": "British",
+  "bio": "Author of fantasy and graphic novels including American Gods and The Sandman",
+  "currentNameLower": "neil gaiman",
+  "aliasesLower": []
+},
+{
+  "_id": {
+    "$oid": "691737d0842da88332658501"
+  },
+  "currentName": "Terry Pratchett",
+  "aliases": [
+    "Terence David John Pratchett"
+  ],
+  "birthYear": 1948,
+  "deathYear": 2015,
+  "nationality": "British",
+  "bio": "Creator of the Discworld series, known for satirical fantasy",
+  "currentNameLower": "terry pratchett",
+  "aliasesLower": [
+    "terence david john pratchett"
+  ]
+},
+{
+  "_id": {
+    "$oid": "691737d0842da88332658502"
+  },
+  "currentName": "Ursula K. Le Guin",
+  "aliases": [
+    "Ursula Kroeber Le Guin"
+  ],
+  "birthYear": 1929,
+  "deathYear": 2018,
+  "nationality": "American",
+  "bio": "Acclaimed author of science fiction and fantasy, including Earthsea series",
+  "currentNameLower": "ursula k. le guin",
+  "aliasesLower": [
+    "ursula kroeber le guin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "691737d0842da88332658503"
+  },
+  "currentName": "Bob McTesterson",
+  "aliases": [
+    "Robert McTryitout",
+    "Roberto Examplar",
+    "Bobbie Le Tester"
+  ],
+  "birthYear": 1929,
+  "deathYear": 2018,
+  "nationality": "American",
+  "bio": "Prolific imaginary author known for test cases and examples.",
+  "currentNameLower": "bob mctesterson",
+  "aliasesLower": [
+    "robert mctryitout",
+    "roberto examplar",
+    "bobbie le tester"
+  ]
+}]

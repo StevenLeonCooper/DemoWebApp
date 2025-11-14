@@ -9,7 +9,10 @@ import { BooksHandler } from "./routes/books.js";
 
 dotenv.config();
 
-const MONGODB_URI = process.env.MONGODB_URI || "mongodb://127.0.0.1:27017/ISDS411Demo";
+const __LOCAL = false;
+
+const MONGODB_URI = __LOCAL ? process.env.LOCAL_MONGODB_URI : process.env.MONGODB_URI;
+
 await mongoose.connect(MONGODB_URI); // ESM allows top-level await
 mongoose.connection.on("connected", () => console.log("MongoDB connected"));
 mongoose.connection.on("error", (e) => console.error("MongoDB error:", e));
