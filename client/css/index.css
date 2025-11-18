@@ -3,7 +3,7 @@
 /* Use 16px as the root font size so 1rem = 16px */
 :root {
     font-size: 16px;
-    --bg: #ffffff;
+    --bg: #FFFF00;
     --fg: #111111;
 }
 
